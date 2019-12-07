@@ -1,9 +1,9 @@
-# Final Project Proposal
+# Project Milestone Report
 Group Number:  
 Group Name:
 
 ## Deadline
-**November 21, 2019, 23:59 UTC+8**
+**December 17, 2019, 23:59 UTC+8**
 
 Name:   student ID:  Github Username:  
 Name:   student ID:  Github Username:  
@@ -15,5 +15,4 @@ Write the group number and your chinese name, student ID(include your teammate i
 
 In this repo, you need to submit your project proposal.(.tex and pdf)
 
-For the detail of the proposal and project, please read introduction.pdf carefully!
 
